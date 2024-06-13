@@ -1,0 +1,60 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+h1 {
+  text-align: center;
+  margin-top: 20px;
+}
+.a {
+  margin: 20px;
+  font-weight: bold;
+}
+.b {
+  text-align: center;
+  margin: 20px;
+}
+.icon {
+  color: black;
+}
+.gi {
+  width: 354px;
+  height: 212px;
+  margin: 10px;
+}
+.hsr {
+  width: 410px;
+  height: 198px;
+  margin: 10px;
+}
+.icon {
+  color: rgb(17, 121, 156);
+  font-size: 50px;
+}
+input {
+  margin: 5px;
+}
+.send {
+  border-radius: 50px;
+  background-color: gray;
+  margin-top: 20px;
+  color: white;
+  padding: 15px;
+  text-align: center;
+  font-size: 25px;
+  cursor: pointer;
+}
+.idk {
+  border: 1px solid gray; background-color: lightgray;
+  border-radius: 30px;
+  padding: 20px;
+  margin: 10px;
+  font-size: 50px; text-align: center;
+}
+.circle {
+  border: 10px solid rgb(111, 79, 228);
+  border-radius: 50%;
+  padding: 10px;
+  width: 100px; height: 100px; 
+}
